@@ -1,4 +1,4 @@
-### Henrique Bélgamo
+# Henrique Bélgamo
 
 > ​									Faça ou não faça. Tentativa não há. 																							- Yoda, Mestre
 
@@ -7,16 +7,16 @@
 - Título: Desenvolvedor/Estudante
 - Pronome: Ele
 
-### Conecte-se
+## Conecte-se:
 
 - [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-b%C3%A9lgamo-bb9b83171/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hb.belgamo@gmail.com)
 
-### Sobre mim:
+## Sobre mim:
 
 Tecnólogo formado em Automação Industrial. Cursar automação me proporcionou meus primeiros contatos com o que realmente é a tecnologia, ali pude desenvolver protótipos para os mais diversos tipos de automatização em diversas áreas. Também foi na faculdade onde tive meu primeiro contato com programação,  C++ era a bola da vez, ocupava nossas aulas de segunda-feira, após esse contato me interessei e resolvi ir afundo, foi onde encontrei Python e suas infinitas possibilidades, não demorou muito para cair de cara nos estudos, porém, tive que parar por não conseguir conciliar com faculdade e trabalho. Após me formar, tive a oportunidade de trabalhar com automação, lidando principalmente com projetos mecânicos e elétrica, entretanto, sempre com um pé atrás, sentindo que não era esse o meu lugar, somente uma coisa passava na minha cabeça quando pensava no que queria pra minha vida ''Programação". Deste então, venho me aprimorando e evoluindo buscando a excelência que sempre quis como profissional e principalmente como programador.
 
-### Dia a Dia:
+## Dia a Dia:
 <div>
     <a href="https://github.com/Sigbel">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sigbel&show_icons=true&theme=dracula"/>
