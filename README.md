@@ -4,7 +4,7 @@
 
 
 
-- Título: Desenvolvedor Python
+- Título: Desenvolvedor/Estudante
 - Pronome: Ele
 
 ### Conecte-se
