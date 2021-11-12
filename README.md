@@ -29,7 +29,6 @@ Tecnólogo formado em Automação Industrial. Cursar automação me proporcionou
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-# 	
 
 ![Snake animation](https://github.com/Sigbel/sigbel/blob/output/github-contribution-grid-snake.svg)
 
