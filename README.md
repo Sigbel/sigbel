@@ -5,7 +5,6 @@
 
 
 - Título: Desenvolvedor/Estudante
-- Pronome: Ele
 
 ## Conecte-se:
 
