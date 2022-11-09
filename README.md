@@ -4,7 +4,7 @@
 
 
 
-- Título: Desenvolvedor/Estudante
+- Título: Desenvolvedor Full-Stack
 
 ## Conecte-se:
 
