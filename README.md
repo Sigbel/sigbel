@@ -30,8 +30,8 @@
 ### Minhas partes favoritas:
 
 - 💻 &nbsp; Eu amo explorar tudo que a programação tem a oferecer.
-- 📰 &nbsp; Ler, jogar, modelagem em 3D.
-- 🍕 &nbsp; Eventos, encontros ao vivo.
+- 📰 &nbsp; Ler, jogar e modelagem em 3D.
+- 🍕 &nbsp; Eventos e encontros ao vivo.
 
 ### Linguagens e Ferramentas:
 
