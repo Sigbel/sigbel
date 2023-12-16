@@ -1,18 +1,3 @@
-<style>
-    .flex-container {
-        display: flex;
-    }
-
-    .text-container {
-        text-align: justify;
-    }
-
-    .image-container {
-        margin-left: 20px;
-        margin-top: 10px;
-    }
-</style>
-
 # Henrique Bélgamo
 
 > ​ Faça ou não faça. Tentativa não há. - Yoda, Mestre
@@ -31,10 +16,9 @@
 </div>
 
 ## Sobre mim:
-<p align="justify">Tecnólogo formado em Automação Industrial. Cursar automação me proporcionou meus primeiros contatos com o que realmente é a tecnologia, ali pude desenvolver protótipos para os mais diversos tipos de automatização em diversas áreas. Também foi na faculdade onde tive meu primeiro contato com programação, C++ era a bola da vez, ocupava nossas aulas de segunda-feira, após esse contato me interessei e resolvi ir afundo, foi onde encontrei Python e suas infinitas possibilidades, não demorou muito para cair de cara nos estudos, porém, tive que parar por não conseguir conciliar com faculdade e trabalho. Após me formar, tive a oportunidade de trabalhar com automação, lidando principalmente com projetos mecânicos e elétrica, entretanto, sempre com um pé atrás, sentindo que não era esse o meu lugar, somente uma coisa passava na minha cabeça quando pensava no que queria pra minha vida "Programação". Deste então, venho me aprimorando e evoluindo buscando a excelência que sempre quis como profissional e principalmente como programador.</p>
 
-<img align="right" width="290px" src="https://media1.giphy.com/media/Eqz8ZFUScPHH2/giphy.gif?cid=ecf05e472qkevo13c9b1id1ggevn8p0yj07ap28skkmdoh8t&rid=giphy.gif&ct=gg"/>
-
+| Tecnólogo formado em Automação Industrial. Cursar automação me proporcionou meus primeiros contatos com o que realmente é a tecnologia, ali pude desenvolver protótipos para os mais diversos tipos de automatização em diversas áreas. Também foi na faculdade onde tive meu primeiro contato com programação, C++ era a bola da vez, ocupava nossas aulas de segunda-feira, após esse contato me interessei e resolvi ir afundo, foi onde encontrei Python e suas infinitas possibilidades, não demorou muito para cair de cara nos estudos, porém, tive que parar por não conseguir conciliar com faculdade e trabalho. Após me formar, tive a oportunidade de trabalhar com automação, lidando principalmente com projetos mecânicos e elétrica, entretanto, sempre com um pé atrás, sentindo que não era esse o meu lugar, somente uma coisa passava na minha cabeça quando pensava no que queria pra minha vida "Programação". Deste então, venho me aprimorando e evoluindo buscando a excelência que sempre quis como profissional e principalmente como programador. | ![GIF](https://media1.giphy.com/media/Eqz8ZFUScPHH2/giphy.gif?cid=ecf05e472qkevo13c9b1id1ggevn8p0yj07ap28skkmdoh8t&rid=giphy.gif&ct=gg) |
+|---|---|
 
 
 ---
